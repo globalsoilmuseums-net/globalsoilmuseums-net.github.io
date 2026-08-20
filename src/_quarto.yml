@@ -1,0 +1,33 @@
+project:
+  type: website
+  resources:
+    - img/*
+  render:
+    - "*.md"
+    - "*.qmd"
+
+website:
+  repo-url: https://github.com/globalsoilmuseums-net/globalsoilmuseums-net.github.io
+  repo-subdir: src
+  repo-actions:
+    - issue
+  page-footer:
+    left:
+    - text: Global Network of Soil Museums
+  title: "Global Network of Soil Museums"
+  search: true
+  navbar:
+    pinned: true
+    logo: ./img/logo/logo.png
+    right:
+      - text: Home
+        file: index.md
+      - text: About
+        file: about.md
+
+format:
+  html:
+    page-layout: full
+    theme:
+      light: flatly
+      dark: darkly
