@@ -18,6 +18,24 @@ Soil museums, education centres, exhibits, and collections of soil samples are i
 
 The Global Soil Museum Network promotes a wider understanding of soil by providing a supportive and collaborative space for organizations who exhibit and teach about soils. Learn about our purpose in this draft mandate document. Read below about how to join the network!
 
+## Museums in the network
+
+The map shows the museums in the network, click in a dot to see details of the museum.
+Or have a look at the [full list](./list.md).
+
+<div id="map">
+<div id="info-panel">
+<button id="close-panel">&times;</button>
+<h2 id="museum-title"></h2>
+<a id="museum-link" href="#" target="_blank" rel="noopener noreferrer"
+> Visit museum website</a></div>
+</div>
+
+
+<script src="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.js"></script>
+<script src="js/map.js"></script>
+<link href="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css" rel="stylesheet"/>
+<link href="js/map.css" rel="stylesheet"/>
 
 ## Join the Global Soil Museum Network!
 
