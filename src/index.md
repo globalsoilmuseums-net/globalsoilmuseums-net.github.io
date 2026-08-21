@@ -56,7 +56,9 @@ Please fill out [this form](https://github.com/globalsoilmuseums-net/globalsoilm
 
 ## Documents
 
-Content and presentation of a soil exposition
-Procedures for the collection and preservation of soil profiles
-Global soil museum network Mandate & structure (Draft)
+Relevant documents for the network.
+
+- [Content and presentation of a soil exposition](./doc/isric_report_1993_05.pdf)
+- [Procedures for the collection and preservation of soil profiles](./doc/ISRIC_TechPap1_UK.pdf))
+- [Global soil museum network Mandate & structure (Draft)](./doc/Mandate-GlobalSoilMuseumNetwork-Draft-V4.pdf)
 
