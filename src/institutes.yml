@@ -10,8 +10,8 @@
 - title: Dokuchaev Central Soil Museum
   lon: '30.303443'
   lat: '59.943884'
-  path: https://web.archive.org/web/20130321204607/http://www.russianmuseums.info/M150
-  image: ''
+  path: https://soil-museum.ru/
+  image: 'img/museums/russia.webp'
   description: |
     Founded by Vasily Dokuchaev in St Petersburg in 1902, this is one of the world's oldest dedicated soil museums.
     Its collections include soil monoliths from across the globe and from different natural zones, together with exceptionally old fossil soils and large-scale profiles.
