@@ -31,7 +31,9 @@ Or have a look at the [full list](./list.md).
 > Visit museum website</a></div>
 </div>
 
-
+<script src="
+https://cdn.jsdelivr.net/npm/js-yaml@5.3.0/dist/browser/js-yaml.umd.min.js
+"></script>
 <script src="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.js"></script>
 <script src="js/map.js"></script>
 <link href="https://unpkg.com/maplibre-gl@5/dist/maplibre-gl.css" rel="stylesheet"/>

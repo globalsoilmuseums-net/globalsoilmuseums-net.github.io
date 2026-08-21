@@ -1,0 +1,102 @@
+- title: ISRIC - World Soil Museum
+  lon: '5.6643467'
+  lat: '51.9875781'
+  path: https://wsm.isric.org/
+  image: 'img/museums/isric.jpg'
+  description: 
+    The World Soil Museum in Wageningen is built around the ISRIC World Soil Reference Collection, with more than 1,100 preserved soil profiles from over 80 countries. 
+    Its soil monoliths illustrate global soil diversity, soil-forming processes, land use and the relationship between soils and ecosystems.
+    The museum combines scientific reference collections with public education, including exhibitions, guided tours and a virtual museum."
+- title: Dokuchaev Central Soil Museum
+  lon: '30.303443'
+  lat: '59.943884'
+  path: https://web.archive.org/web/20130321204607/http://www.russianmuseums.info/M150
+  image: ''
+  description: |
+    Founded by Vasily Dokuchaev in St Petersburg in 1902, this is one of the world's oldest dedicated soil museums.
+    Its collections include soil monoliths from across the globe and from different natural zones, together with exceptionally old fossil soils and large-scale profiles.
+    Exhibitions cover soil as a natural body, world soils, regional soils, soil degradation and conservation, and the history of Russian soil science. 
+
+
+- title: 'Museo del Suolo MIdA '
+  lon: '15.45341273'
+  lat: 40.538857006750135,
+  path: http://fondazionemida.com/museo-del-suolo
+  image: 'img/museums/italy.jpg'
+  description: |
+    Located in Pertosa, Italy, the Museo del Suolo presents the soil as a living, three-dimensional ecosystem extending from the surface into the subsurface. 
+    Its 1,500 m² exhibition explores soil formation, organisms, roots, humus, clay and soil–ecosystem interactions through hands-on and sensory experiences.
+    It also uses microscopy, holographic displays and large 3D models to reveal the otherwise invisible biological world beneath our feet. 
+
+- title: Emirates Soil Museum
+  lon: '55.39021149'
+  lat: '25.09459695'
+  path: https://www.emiratessoilmuseum.org/
+  image: 'img/museums/emirates.webp'
+  description: |
+    Opened in Dubai in 2016, the Emirates Soil Museum grew out of the UAE National Soil Survey and focuses particularly on soils of arid environments. 
+    Its collections include UAE soil monoliths, rocks, minerals, fossils, soil maps and materials from the national soil survey.
+    Interactive exhibits address dune formation, water infiltration, salinity, food security and climate change, complemented by an outdoor desert garden and demonstration farm. 
+
+- title: Soil Museum Kraków
+  lon: '19.95096418'
+  lat: '50.08252324'
+  path: https://muzeumgleb.urk.edu.pl/
+  image: 'img/museums/krakow.jpg'
+  description: |
+    The Soil Museum at the University of Agriculture in Kraków was established in 2012 and is described as Poland's only museum dedicated specifically to soils.
+    Its collection contains 76 full-scale soil monoliths representing soils from diverse parts of Europe and the USA.
+    The exhibition uses these profiles to explain soil diversity, soil functions and protection, and the role of soils in shaping landscapes and human activity. 
+
+- title: University of Leuven
+  lon: '4.67556179'
+  lat: '50.86404424'
+  path: https://ees.kuleuven.be/soil-monoliths/
+  image: 'img/museums/kuleuven.jpg'
+  description: |
+    KU Leuven's soil-monolith collection contains around 120 unique soil profiles, developed through more than a century of fieldwork and soil science. 
+    The collection has been expanded through a permanent loan from the ISRIC World Soil Museum as well as newer profiles collected by KU Leuven researchers.
+    It provides a visual record of soil horizons and processes, making specialist knowledge of soil classification and genesis accessible beyond traditional soil-science collections. 
+
+- title: Brazilian Museum Of Soils
+  lon: '-43.68706951'
+  lat: '-22.76736814'
+  path: https://institucional.ufrrj.br/msbufrrj/
+  image: 'img/museums/brazil.png'
+  description: |
+    The Brazilian Museum of Soils is associated with the Federal Rural University of Rio de Janeiro and represents Brazil's long tradition of soil survey and pedological research.
+    Its focus is on communicating the extraordinary diversity of Brazilian soils and their importance for agriculture, landscapes and environmental management.
+    The museum belongs to a broader Brazilian tradition of preserving soil profiles, samples and educational materials as resources for teaching and soil-science outreach.
+
+- title: Museum of Soils of Cuba
+  lon: '-80.169775'
+  lat: '22.410479'
+  path: https://www.facebook.com/ETICA-Centro-Villa-Clara-104918958643800
+  image: 'img/museums/villaclara.jpg'
+  description: |
+    The Museum of Soils of Cuba is associated with soil education and environmental outreach in Villa Clara, highlighting the diversity and importance of Cuban soils.
+    Its context is closely connected with Cuba's long-standing national soil-survey and soil-classification tradition, including work on soil fertility and land management.
+    Publicly accessible documentation on the museum itself is relatively limited, so I would treat details of its current collection and exhibition as provisional.
+
+- title: Museum of Soil Fertility Research Service
+  lon: '44.6939'
+  lat: '41.94259'
+  path: https://srca.gov.ge/en
+  image: ''
+  description: |
+    This Georgian collection is associated with the Soil Fertility Research Service of the Scientific-Research Centre of Agriculture in Tbilisi. 
+    Its institutional focus is strongly research-oriented, covering soil fertility, soil properties, agricultural soils and the effects of management on soil condition.
+    Compared with the larger public-facing soil museums, it appears better understood as a research and educational collection linked to Georgia's agricultural soil-science programme.
+
+- title: Museu de Ciências da Terra Alexis Dorofeef
+  lon: '-42.87238'
+  lat: '-20.75424'
+  path: https://www.mctad.ufv.br/
+  image: 'img/museums/mctad.jpg'
+  description: |
+    The Alexis Dorofeef Earth Sciences Museum at the Federal University of Viçosa, Brazil, was created in 1993 around collections of rocks and minerals and subsequently developed a strong focus on soils. 
+    Its outreach programme uses soils as a gateway to understanding the Earth, including soil-based pigments, art, exhibitions and interactive activities.
+    The museum has a particularly strong educational mission, offering teacher training, school projects, workshops and travelling exhibitions on soils and the environment. 
+
+
+

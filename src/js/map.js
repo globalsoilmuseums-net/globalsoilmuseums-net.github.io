@@ -1,64 +1,47 @@
 
 async function loadLocalJSON() {
-    try {
-        // Fetch the JSON file
-        const response = await fetch('./js/institutes.json');
 
-        // Check if the request was successful
-        if (!response.ok) {
-            throw new Error(`HTTP error! Status: ${response.status}`);
-        }
+    fetch("./institutes.yml")
+    .then(response => response.text())
+    .then(text => {
+      const data = jsyaml.load(text);
 
-        // Parse JSON
-        const data = await response.json();
+    data.forEach((museum) => {
 
+        // Create custom marker element
+        const markerElement = document.createElement("div");
+        markerElement.className = "museum-marker";
 
-data.forEach((museum) => {
-
-    const [
-    title,
-    longitude,
-    latitude,
-    url
-    ] = museum;
-
-    // Create custom marker element
-    const markerElement = document.createElement("div");
-    markerElement.className = "museum-marker";
-
-    // Create MapLibre marker
-    new maplibregl.Marker({
-    element: markerElement
-    })
-    .setLngLat([
-        parseFloat(longitude),
-        parseFloat(latitude)
-    ])
-    .addTo(map);
+        // Create MapLibre marker
+        new maplibregl.Marker({
+        element: markerElement
+        })
+        .setLngLat([
+            parseFloat(museum.lon),
+            parseFloat(museum.lat)
+        ])
+        .addTo(map);
 
 
-    markerElement.addEventListener("click", () => {
+        markerElement.addEventListener("click", () => {
 
-    // Set panel content
-    document.getElementById("museum-title").textContent =
-        title;
+        // Set panel content
+        document.getElementById("museum-title").textContent =
+            museum.title;
 
-    const link =
-        document.getElementById("museum-link");
+        const link =
+            document.getElementById("museum-link");
 
-    link.href = url;
+        link.href = museum.path;
 
-    // Show panel
-    document.getElementById("info-panel").style.display =
-        "block";
+        // Show panel
+        document.getElementById("info-panel").style.display =
+            "block";
 
+        });
+
+        });
     });
-
-});
-
-    } catch (error) {
-        console.error("Error loading JSON:", error);
-    }
 }
 
 // Call the function
@@ -85,3 +68,7 @@ document
         "none";
     });
 
+const resizeMap = () => map.resize();
+
+window.addEventListener('resize', resizeMap);
+window.addEventListener('orientationchange', resizeMap);

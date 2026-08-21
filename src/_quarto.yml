@@ -3,6 +3,7 @@ project:
   resources:
     - img/*
     - js/*
+    - institutes.yml
   render:
     - "*.md"
     - "*.qmd"
