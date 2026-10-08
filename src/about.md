@@ -8,13 +8,20 @@ sidebar: true
 
 Soil museums make the invisible visible. They preserve soil specimens, profiles, knowledge and stories, and create spaces where people can discover the diversity and importance of soils.
 
+## What is the Global Soil Museum Network?   
 
-## Why a global network?
+The Global Soil Museum Network brings together soil museums from around the worked to reveal the importance and diversity of the world’s soils. The network creates opportunities for science to meet culture, and local soil stories to become part of a global narrative. The network will facilitate introducing soil to people of all ages, and to share knowledge on soil as a living ecosystem that sustains civilizations, regulates climate, preserves history, and secures our future. The network is an independent, non-profit network facilitated by ISRIC and closely connected with the World Soil Museum based in Wageningen, the Netherlands. The Network is coordinated by a management team consisting of representatives selected from participating soil museums, while ISRIC will serve as the network's secretariat. 
 
-* Soil museums exist in many countries, but are often poorly connected internationally.
-* Their collections represent enormous scientific, educational and cultural value.
-* Many museums face challenges around preservation, digitisation, visibility and engaging new audiences.
-* The network creates a way to **share knowledge, collections, experiences and inspiration**.
+## Why build the Global Soil Museum Network?    
+
+Well formulated and accessible soil knowledge is key to achieve many of the United Nations’ Sustainable Development Goals (SDGs), such as ending poverty and hunger, ensuring quality education, protecting biodiversity, managing land sustainably, taking climate action, and partnering for sustainable development.  
+
+![Sustainable development goals](img/UN_Sustainable_Development_Goals.jpg)
+
+The Global Soil Museum Network connects museums to universities, researchers, soil communities, soil science societies, artists, citizens, policy makers, and farmers across countries and continents to enhance the visibility of this important source, ensuring that every person values, understands and protects soil as the living foundation of life.   
+
+Together, we cultivate a global soil literacy movement that inspires action, from classrooms to farms, from cities to forests, from policymakers to citizens, ensuring that future generations inherit healthy soils and a resilient planet. 
+
 
 ## From soil collections to a global network
 
@@ -24,14 +31,15 @@ Over time, these collections became important not only for scientific research, 
 
 The idea of connecting soil museums internationally grew from this shared heritage. The Global Network of Soil Museums builds on earlier efforts to bring institutions and collections together, while creating a more visible and accessible international community for the future.
 
-[ISRIC – World Soil Museum](https://wsm.isric.org) has played a central role in facilitating this international exchange and provides an important home for the network.
 
-Facilitated by ISRIC
+## Facilitated by ISRIC
 
-[ISRIC – World Soil Information](https://isric.org), based at Wageningen University & Research, is an international centre for soil information. Through the World Soil Museum and its broader work on soil information, ISRIC has a long-standing role in preserving, documenting and communicating knowledge about the world's soils.
+[ISRIC – World Soil Information](https://isric.org), based at Wageningen University & Research, is an international centre for soil information. Through the [World Soil Museum](https://wsm.isric.org) and its broader work on soil information, ISRIC has a long-standing role in preserving, documenting and communicating knowledge about the world's soils.
 
 ISRIC facilitates the Global Network of Soil Museums by helping connect participating institutions, support knowledge exchange, maintain the network's digital presence and encourage collaboration between museums and collections worldwide.
 
+- Network leader - Stephan Mantel
+- Network coordinator - Kurshid Chrow
 
 
 ## What does the network do?
@@ -51,17 +59,10 @@ Promoting innovative ways to communicate the importance of soils.
 **Collaborate**
 Creating opportunities for joint exhibitions, research, digitisation and outreach.
 
-## Who is part of the network?
-
-The network welcomes museums, universities, research institutes, government organisations and other institutions that collect, preserve, exhibit or communicate soil heritage.
-
-## Why soil museums matter
-
-Soil is often hidden beneath our feet, yet it supports nearly every aspect of life on Earth. Soil museums give this hidden world a physical presence. A soil profile can tell the story of a landscape, its climate, vegetation, geology and human use over centuries or millennia.
-
 ## Looking ahead
 
 The Global Network of Soil Museums aims to make the world's soil collections more connected, visible and accessible. By working together, soil museums can reach new audiences, share expertise and demonstrate why understanding and protecting soils matters for our common future.
 
 ## Join the network or locate a museum close to you
 
+Locate the [current members](list.md), or let us know if you are interested to [join the network](join.md).

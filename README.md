@@ -10,3 +10,7 @@ From scientific collections to creative interpretations, each contribution revea
 Together, these resources show why soils matter for life, landscapes, food, climate, and society.
 Explore the network, discover its museums, and connect with people working to make soils visible.
 
+## Webhook to submit form
+
+See at [microsoft](https://support.microsoft.com/en-us/workflows/send-messages-in-teams-using-incoming-webhooks)on how to set it up.
+
