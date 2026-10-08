@@ -16,8 +16,8 @@ website:
     - issue
   page-footer:
     left:
-    - text: Global Network of Soil Museums
-  title: "Global Network of Soil Museums"
+    - text: Global Soil Museum Network
+  title: Global Soil Museum Network
   search: true
   navbar:
     pinned: true
@@ -27,6 +27,8 @@ website:
         file: index.md
       - text: About
         file: about.md
+      - text: Members
+        file: list.md
 
 format:
   html:
